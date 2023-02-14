@@ -1,4 +1,4 @@
-# Assigment Instructions
+# Assignment Instructions
 
 This assignment will begin to teach you how to work in a development team and show you how all of what we have learned
 comes together to enable a productive development process within a team. If you already have this setup by doing
